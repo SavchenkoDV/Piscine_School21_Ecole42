@@ -1,0 +1,5 @@
+Credentials cache: API:D948E0CD-CB75-401D-865D-923A156B0E71
+        Principal: buthor@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 10 20:21:45 2020  Aug 11 06:21:39 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
